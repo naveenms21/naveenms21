@@ -8,9 +8,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Introduction
-**Skillmate** is an e-learning platform that allows instructors to create and upload online courses for students. It provides a user-friendly interface for creating and managing courses. Students can browse and enroll in courses of their choice. Skillmate also offers a dashboard for instructors to view their courses' analytics, such as enrollments. Built with Python and Django, Skillmate follows best practices in web development and security.
-
-![skillmate-django-online-learning-platform](https://user-images.githubusercontent.com/106135144/227760997-1512e3cc-f02f-4f3c-9a4f-a76dad267ebe.png)
+**LMS** is an e-learning platform that allows instructors to create and upload online courses for students. It provides a user-friendly interface for creating and managing courses. Students can browse and enroll in courses of their choice. LMS also offers a dashboard for instructors to view their courses' analytics, such as enrollments. Built with Python and Django, LMS follows best practices in web development and security.
 
 ## Table of Content
   * [Introduction](#introduction)
@@ -55,10 +53,7 @@ python manage.py runserver
 4. Course catalog with various categories
 5. Responsive design for mobile and tablet devices
 
-## Screenshots
-![skillmate-dashboard](https://user-images.githubusercontent.com/106135144/227761162-573aabd7-3c88-4244-ad49-ec7bc68ac290.png)
 
-![skillmate-upload-course](https://user-images.githubusercontent.com/106135144/227761259-bc27aa5f-e06e-482d-8986-ecdf3ac50bf7.png)
 
 ## Contributing
 Contributions are welcome and encouraged! If you'd like to contribute to the project, please follow these steps:
@@ -69,13 +64,4 @@ Contributions are welcome and encouraged! If you'd like to contribute to the pro
 4. Push your changes to your forked repository
 5. Create a pull request
 
-## Conclusion
-Skillmate is an online learning platform that allows instructors to create and sell courses to students created using Django.
 
-### Support My Work
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ashish-makes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
