@@ -20,12 +20,10 @@
 
 ## Installation
 1. Clone the repository:
-```
-https://github.com/ashish-makes/django-lms
-```
+
 2. Navigate to the directory:
 ```
-cd skillmate
+cd LMS
 ```
 3. Run the server:
 ```
